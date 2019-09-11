@@ -36,7 +36,6 @@ def alan_kay_is_known_for
           :known_for => "Unix",
           :languages => ["C"]
         }
-        
      }
 end
 
